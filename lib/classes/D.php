@@ -4,7 +4,7 @@
  * General utility class in D library, not to be instantiated.
  *
  *
- * @author Chris Corbyn
+ * @author Konstantin Nikiforov
  */
 abstract class D {
     public static $initialized = FALSE;
