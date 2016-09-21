@@ -1,0 +1,24 @@
+{
+  "name": "konstantinnikiforov/dlibrary",
+  "type": "library",
+  "description": "D classes",
+  "keywords": ["D"],
+  "homepage": "",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Konstantin Nikiforov"
+    }
+  ],
+  "require": {
+    "php": ">=5.5"
+  },
+  "autoload": {
+    "files": ["lib/d_required.php"]
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "5.4-dev"
+    }
+  }
+}

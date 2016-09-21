@@ -12,7 +12,6 @@ abstract class D {
 
     /**
      * Registers an initializer callable that will be called the first time
-     * a SwiftMailer class is autoloaded.
      *
      * This enables you to tweak the default configuration in a lazy way.
      *
